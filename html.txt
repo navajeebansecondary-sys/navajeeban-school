@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+<meta charset="UTF-8">
+<title>श्री नवजीवन माध्यमिक विद्यालय</title>
+<style>
+body{
+font-family: Kalpana, Mangal, Arial;
+margin:0;
+background:#f9f9f9;
+}
+header{
+background:#1b8f3a;
+color:white;
+padding:20px;
+text-align:center;
+}
+nav{
+background:#ffffff;
+padding:10px;
+text-align:center;
+box-shadow:0 2px 5px #ccc;
+}
+nav a{
+margin:15px;
+text-decoration:none;
+color:#1b8f3a;
+font-weight:bold;
+}
+section{
+padding:20px;
+}
+footer{
+background:#1b8f3a;
+color:white;
+text-align:center;
+padding:10px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<!-- लोगो यहाँ राख्न सकिन्छ -->
+<h1>श्री नवजीवन माध्यमिक विद्यालय</h1>
+<p>चम्पादेवी–०४, ओखलढुंगा</p>
+</header>
+
+<nav>
+<a href="index.html">मुख्य पृष्ठ</a>
+<a href="about.html">हाम्रो बारेमा</a>
+<a href="teachers.html">शिक्षक</a>
+<a href="notice.html">सूचना</a>
+<a href="contact.html">सम्पर्क</a>
+</nav>
+
+<section>
+<h2>स्वागत छ</h2>
+<p>
+श्री नवजीवन माध्यमिक विद्यालयमा हार्दिक स्वागत छ।
+हाम्रो विद्यालयले गुणस्तरीय, अनुशासित र व्यवहारिक शिक्षा प्रदान गर्दै आएको छ।
+</p>
+</section>
+
+<footer>
+© 2025 श्री नवजीवन माध्यमिक विद्यालय
+</footer>
+
+</body>
+</html>
+<h2>हाम्रो बारेमा</h2>
+<p>
+श्री नवजीवन माध्यमिक विद्यालय शिक्षा मन्त्रालय अन्तर्गत सञ्चालित
+सरकारी विद्यालय हो।
+यहाँ कक्षा १ देखि १० सम्म अध्यापन गरिन्छ।
+विद्यालयले शैक्षिक गुणस्तर र नैतिक शिक्षामा विशेष ध्यान दिएको छ।
+</p>
+<h2>शिक्षक तथा कर्मचारी</h2>
+<ul>
+<li>प्रधानाध्यापक: शान्त बहादुर कार्की</li>
+<li>नेपाली शिक्षक: संगिता कार्की</li>
+<li>गणित शिक्षक: छन्दविनोद नेपाल</li>
+<li>अंग्रेजी शिक्षक: शान्त बहादुर कार्की</li>
+</ul>
+<h2>शिक्षक तथा कर्मचारी</h2>
+<ul>
+<h2>सूचना पाटी</h2>
+<ul>
+<li>भर्ना खुल्ला सम्बन्धी सूचना</li>
+<li>परीक्षा तालिका</li>
+<li>बिदा सम्बन्धी सूचना</li>
+</ul>
+<h2>सम्पर्क</h2>
+<p>
+ठेगाना: चम्पादेवी–०४, ओखलढुंगा<br>
+फोन: 9762953560<br>
+इमेल: Navajeebansecondary@gmail.com
+</p>
+<img src="logo.png" width="80">
+
